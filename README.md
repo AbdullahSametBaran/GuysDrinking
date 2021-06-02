@@ -11,3 +11,5 @@ Each time the guy takes a  sip,  the size of the coffee will decrease.
 
 •The mugs have teammates' pictures on them.
 •The coffee inside the mug creates smoke. 
+
+When you run this program, you will see a house. The stick figures stay inside the house. Use the UP and DOWN arrow keys to see inside of the house.
